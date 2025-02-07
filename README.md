@@ -1,5 +1,3 @@
-我来帮你创建一个详细的 README.md 文件：
-
 ```markdown:README.md
 # 学习通实习打卡脚本
 
