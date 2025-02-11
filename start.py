@@ -15,15 +15,15 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Zoom Edition Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36 (device:Redmi K30 Pro Zoom Edition) Language/zh_CN com.chaoxing.mobile/ChaoXingStudy_3_6.2.8_android_phone_1050_234 (@Kalimdor)_8c0587fc07ee4c25bdbbb5d7a90d8152'
 }
 # 学习通用户名，手机号或者学号
-username = "19523685490"
+username = ""
 # 学习通密码
-password = "80012029Lz"
+password = ""
 # 学校ID，当用户名为学号时需要填写，为手机号时不需要填写
 schoolid = ""
 # 要打卡的地址名称、经度和纬度，可在http://api.map.baidu.com/lbsapi/getpoint/index.html中获取相应位置的坐标
-address = "蜀山区合肥市经开区金寨路辅路"
+address = ""
 # 打卡位置坐标，通过上面网址查询到的的坐标点可直接粘贴在这里
-location = "117.23704,31.789525"
+location = ""
 # 这个是学习通实习打卡中的"如果发生特殊情况未能正常打卡，可以在此填写理由"中的内容，可自行填写
 remark = ""
 # 新版实习打卡中要提交的图片列表，填写时请使用引号包裹后写在中括号内，如下面注释所示
