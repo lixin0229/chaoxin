@@ -22,7 +22,7 @@
 
 ### 1. 环境要求
 
-- Python 3.x
+- Python 3.11
 - Windows 系统
 
 ### 2. 快速开始
